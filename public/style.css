@@ -1,0 +1,136 @@
+header{
+    background-image: url(image/bg.jpg);
+    height: 80vh;
+    min-height: 100px;
+    background-size: cover;
+}
+
+
+.box1{
+    background-color: #00a136;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-mk1{
+    background-color: white;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 650px;
+    margin: auto;
+    position: relative;
+}
+.box-mk2 {
+    position: absolute;
+    align-items: center;
+    top: 0;
+    left: 0;
+    height: 200px;
+    width: 650px;
+    background-color: white;
+}
+.box-mk3 {
+    position: absolute;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 650px;
+    background-color: black;
+}
+
+.box-form1 {
+    background-color: white;
+    height: 870px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    margin: auto;
+    margin-top: -50px;
+    position: relative;
+}
+.box-form2 {
+    position: absolute;
+    align-items: center;
+    bottom: 30;
+    left: 0;
+    height: 79px;
+    width: 800px;
+    background-color: white;
+}
+.box-form3 {
+    position: absolute;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 800px;
+    background-color: black;
+}
+.apel1{
+    background-color: #00a136;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.apel1 h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.apel1 p{
+    margin-bottom: 50px;
+}
+
+.box2{
+    background-color: white;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nanas1{
+    background-color: white;
+    margin-top: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nanas1 h3{
+    text-align: center;
+}
+
+.nanas1 hr{
+    color: #00a136;
+    margin-left: 360px;
+    width: 500px;
+    border-width: 3px;
+}
+
+.nanas1 img{
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+footer {
+    display: flex;
+    background-color: #000000;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+  }
+  
+footer p {
+    color: white;
+    margin-bottom: -10px;
+    text-align: center;
+  }
